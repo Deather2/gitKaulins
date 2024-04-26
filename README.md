@@ -7,8 +7,8 @@ Java projekts, kas realizē metamā mešanu un nejauša skaitļa iegūšanu.
 - [x] Uzsākta lokālā Java projekta versionēšana ar Git
 - [x] Izveidots GitHub konts
 - [x] Izveidota GitHub krātuve
-- [ ] Papildināto GitHub saturu iegūt lokālai lietošanai
+- [x] Papildināto GitHub saturu iegūt lokālai lietošanai
 - [ ] Projekta pievienots vēl viens programmētajs(līdzdalibnieks)
-- [ ] Projekta ieviests jauns zars (branch)
+- [x] Projekta ieviests jauns zars (branch)
 - [ ] Sapludināti zari un novērsts sapludināšanas konflikts
 - [ ] Novērsts kļūdas pieteikums (issue)    
