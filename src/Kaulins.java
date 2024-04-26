@@ -19,6 +19,7 @@ public class Kaulins {
 		System.out.println("Ievadi cik reizes mest kaulinu?");
 		r = scan.nextInt();
 		mestKaulinu(r);
+		scan.close();
 	}
 
 }
