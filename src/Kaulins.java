@@ -16,7 +16,9 @@ public class Kaulins {
 	public static void main(String[] args) {
 		int r;
 		Scanner scan = new Scanner(System.in);
-		System.out.println("Ievadi cik reizes mest kaulinu?");
+		System.out.println("Kā tevi sauc?");
+		String vards = scan.next();
+		System.out.println(vards+", ievadi cik reizes mest kaulinu?");
 		r = scan.nextInt();
 		mestKaulinu(r);
 		scan.close();
